@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyCoffieShop</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_coffee1">coffee1Activity</string>
+    <string name="title_activity_coffee2">coffee2Activity</string>
+    <string name="title_activity_coffee3">coffee3Activity</string>
+    <string name="title_activity_coffee4">coffee4Activity</string>
+    <string name="title_activity_coffee5">coffee5Activity</string>
+    <string name="title_activity_order">orderActivity</string>
+</resources>
